@@ -1036,7 +1036,7 @@
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
                 "Method": "ParameterIdentification",
-                "Description": "Value updated from '001' on 2019-10-01 13:46"
+                "Description": "Value updated from 'Parameter Identification 1' on 2019-12-05 10:03"
               }
             },
             {
@@ -1045,7 +1045,7 @@
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
                 "Method": "ParameterIdentification",
-                "Description": "Value updated from '001' on 2019-10-01 13:46"
+                "Description": "Value updated from 'Parameter Identification 1' on 2019-12-05 10:03"
               }
             }
           ]
@@ -1061,7 +1061,7 @@
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
                 "Method": "ParameterIdentification",
-                "Description": "Value updated from '001' on 2019-10-01 13:46"
+                "Description": "Value updated from 'Parameter Identification 1' on 2019-12-05 10:03"
               }
             },
             {
@@ -1070,7 +1070,7 @@
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
                 "Method": "ParameterIdentification",
-                "Description": "Value updated from '001' on 2019-10-01 13:46"
+                "Description": "Value updated from 'Parameter Identification 1' on 2019-12-05 10:03"
               }
             }
           ]
@@ -1111,12 +1111,17 @@
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
                 "Method": "ParameterIdentification",
-                "Description": "Value updated from '001' on 2019-11-06 16:05"
+                "Description": "Value updated from 'Parameter Identification 1' on 2019-12-05 10:03"
               }
             },
             {
               "Name": "Reference pH",
-              "Value": 7.0
+              "Value": 7.0,
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Parameter Identification 1' on 2019-12-05 10:03"
+              }
             }
           ]
         }
@@ -1132,7 +1137,7 @@
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
                 "Method": "ParameterIdentification",
-                "Description": "Value updated from '001' on 2019-11-06 16:05"
+                "Description": "Value updated from 'Parameter Identification 1' on 2019-12-05 10:03"
               }
             }
           ]
@@ -1162,7 +1167,7 @@
               "ValueOrigin": {
                 "Source": "Publication",
                 "Method": "InVitro",
-                "Description": "PMID: 9566442"
+                "Description": "Average of reported values in the literature (PMID: 9107550 and PMID: 9566442)"
               }
             },
             {
@@ -1182,7 +1187,7 @@
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
                 "Method": "ParameterIdentification",
-                "Description": "Value updated from '001' on 2019-11-06 16:05"
+                "Description": "Value updated from 'Parameter Identification 1' on 2019-12-05 10:03"
               }
             }
           ]
@@ -1198,7 +1203,7 @@
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
                 "Method": "ParameterIdentification",
-                "Description": "Value updated from '001' on 2019-11-06 16:05"
+                "Description": "Value updated from 'Parameter Identification 1' on 2019-12-05 10:03"
               }
             }
           ]
@@ -1215,7 +1220,7 @@
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
                 "Method": "ParameterIdentification",
-                "Description": "Value updated from '001' on 2019-11-06 16:05"
+                "Description": "Value updated from 'Parameter Identification 1' on 2019-12-05 10:03"
               }
             },
             {
@@ -1225,7 +1230,7 @@
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
                 "Method": "ParameterIdentification",
-                "Description": "Value updated from '001' on 2019-10-01 13:46"
+                "Description": "Value updated from 'Parameter Identification 1' on 2019-12-05 10:03"
               }
             }
           ]
@@ -1267,7 +1272,7 @@
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
                 "Method": "ParameterIdentification",
-                "Description": "Value updated from '001' on 2019-11-06 16:05"
+                "Description": "Value updated from 'Parameter Identification 1' on 2019-12-05 10:03"
               }
             }
           ]
@@ -1298,7 +1303,7 @@
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
                 "Method": "ParameterIdentification",
-                "Description": "Value updated from '001' on 2019-11-06 16:05"
+                "Description": "Value updated from 'Parameter Identification 1' on 2019-12-05 10:03"
               }
             }
           ]
@@ -1367,7 +1372,7 @@
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from '001' on 2019-11-06 16:05"
+            "Description": "Value updated from 'Parameter Identification 1' on 2019-12-05 10:03"
           }
         },
         {
@@ -1377,7 +1382,7 @@
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from '001' on 2019-11-06 16:05"
+            "Description": "Value updated from 'Parameter Identification 1' on 2019-12-05 10:03"
           }
         },
         {
@@ -1386,7 +1391,7 @@
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from '001' on 2019-11-06 16:05"
+            "Description": "Value updated from 'Parameter Identification 1' on 2019-12-05 10:03"
           }
         },
         {
@@ -2507,7 +2512,7 @@
             }
           ],
           "Name": "Time Profile Analysis",
-          "OriginText": "Erythromycin-Triazolam-DDI\nPhillips1986_Perpetrator\n2019-12-05 11:13"
+          "OriginText": "Erythromycin-Triazolam-DDI\nPhillips1986_Perpetrator\n2019-12-06 10:54"
         }
       ],
       "Interactions": [
@@ -3301,7 +3306,7 @@
             }
           ],
           "Name": "Time Profile Analysis",
-          "OriginText": "Erythromycin-Triazolam-DDI\nGreenblatt1998_Perpetrator\n2019-12-05 11:08"
+          "OriginText": "Erythromycin-Triazolam-DDI\nGreenblatt1998_Perpetrator\n2019-12-06 10:52"
         }
       ],
       "Interactions": [
