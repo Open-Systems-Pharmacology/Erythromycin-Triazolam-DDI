@@ -1000,9 +1000,9 @@
               "Value": 2.82,
               "Unit": "Log Units",
               "ValueOrigin": {
-                "Source": "Publication",
-                "Method": "InVitro",
-                "Description": "Average of reported values in the literature (PMID: 9135031, PMID: 18611609, and: Lien, E. J., Kuwahara, J., & Koda, R. T. (1974). Diffusion of drugs into prostatic fluid and milk. Drug Intelligence & Clinical Pharmacy, 8(8), 470-475. http://journals.sagepub.com/doi/abs/10.1177/106002807400800803)"
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Parameter Identification 1' on 2020-01-13 15:01"
               }
             }
           ]
@@ -1031,12 +1031,12 @@
           "Parameters": [
             {
               "Name": "Solubility at reference pH",
-              "Value": 500.0,
+              "Value": 28.0708790976,
               "Unit": "mg/l",
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
                 "Method": "ParameterIdentification",
-                "Description": "Value updated from 'Parameter Identification 1' on 2019-12-05 10:03"
+                "Description": "Value updated from '003 - BP conc ratio FIX' on 2019-11-14 14:43"
               }
             },
             {
@@ -1045,7 +1045,7 @@
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
                 "Method": "ParameterIdentification",
-                "Description": "Value updated from 'Parameter Identification 1' on 2019-12-05 10:03"
+                "Description": "Value updated from '001' on 2019-10-01 13:46"
               }
             }
           ]
@@ -1061,7 +1061,7 @@
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
                 "Method": "ParameterIdentification",
-                "Description": "Value updated from 'Parameter Identification 1' on 2019-12-05 10:03"
+                "Description": "Value updated from '001' on 2019-10-01 13:46"
               }
             },
             {
@@ -1070,7 +1070,7 @@
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
                 "Method": "ParameterIdentification",
-                "Description": "Value updated from 'Parameter Identification 1' on 2019-12-05 10:03"
+                "Description": "Value updated from '001' on 2019-10-01 13:46"
               }
             }
           ]
@@ -1106,22 +1106,17 @@
           "Parameters": [
             {
               "Name": "Solubility at reference pH",
-              "Value": 11.1108151646,
+              "Value": 8.3990771997,
               "Unit": "mg/l",
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
                 "Method": "ParameterIdentification",
-                "Description": "Value updated from 'Parameter Identification 1' on 2019-12-05 10:03"
+                "Description": "Value updated from 'Parameter Identification 1' on 2020-01-13 15:01"
               }
             },
             {
               "Name": "Reference pH",
-              "Value": 7.0,
-              "ValueOrigin": {
-                "Source": "ParameterIdentification",
-                "Method": "ParameterIdentification",
-                "Description": "Value updated from 'Parameter Identification 1' on 2019-12-05 10:03"
-              }
+              "Value": 7.0
             }
           ]
         }
@@ -1132,12 +1127,12 @@
           "Parameters": [
             {
               "Name": "Specific intestinal permeability (transcellular)",
-              "Value": 0.00032212168119,
+              "Value": 0.00038668371665,
               "Unit": "cm/min",
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
                 "Method": "ParameterIdentification",
-                "Description": "Value updated from 'Parameter Identification 1' on 2019-12-05 10:03"
+                "Description": "Value updated from 'Parameter Identification 1' on 2020-01-13 15:01"
               }
             }
           ]
@@ -1167,7 +1162,7 @@
               "ValueOrigin": {
                 "Source": "Publication",
                 "Method": "InVitro",
-                "Description": "Average of reported values in the literature (PMID: 9107550 and PMID: 9566442)"
+                "Description": "PMID: 9566442"
               }
             },
             {
@@ -1179,16 +1174,6 @@
                 "Method": "InVitro",
                 "Description": "Average of reported values in the literature (PMID: 9107550 and PMID: 9566442)"
               }
-            },
-            {
-              "Name": "kcat",
-              "Value": 8.5030863889,
-              "Unit": "1/min",
-              "ValueOrigin": {
-                "Source": "ParameterIdentification",
-                "Method": "ParameterIdentification",
-                "Description": "Value updated from 'Parameter Identification 1' on 2019-12-05 10:03"
-              }
             }
           ]
         },
@@ -1199,11 +1184,11 @@
           "Parameters": [
             {
               "Name": "GFR fraction",
-              "Value": 1.1663449001,
+              "Value": 1.1591081815,
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
                 "Method": "ParameterIdentification",
-                "Description": "Value updated from 'Parameter Identification 1' on 2019-12-05 10:03"
+                "Description": "Value updated from 'Parameter Identification 1' on 2020-01-13 15:01"
               }
             }
           ]
@@ -1215,22 +1200,22 @@
           "Parameters": [
             {
               "Name": "kinact",
-              "Value": 0.0522841888,
+              "Value": 0.0296261146,
               "Unit": "1/min",
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
                 "Method": "ParameterIdentification",
-                "Description": "Value updated from 'Parameter Identification 1' on 2019-12-05 10:03"
+                "Description": "Value updated from 'Parameter Identification 1' on 2020-01-13 15:01"
               }
             },
             {
               "Name": "K_kinact_half",
-              "Value": 11.5614191991,
+              "Value": 7.6007360452,
               "Unit": "µmol/l",
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
                 "Method": "ParameterIdentification",
-                "Description": "Value updated from 'Parameter Identification 1' on 2019-12-05 10:03"
+                "Description": "Value updated from 'Parameter Identification 1' on 2020-01-13 15:01"
               }
             }
           ]
@@ -1257,22 +1242,22 @@
             },
             {
               "Name": "Km",
-              "Value": 13.2,
+              "Value": 0.735836485,
               "Unit": "µmol/l",
               "ValueOrigin": {
-                "Source": "Publication",
-                "Method": "InVitro",
-                "Description": "PMID: 22990751"
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Parameter Identification 1' on 2020-01-13 15:01"
               }
             },
             {
               "Name": "kcat",
-              "Value": 21.6361020676,
+              "Value": 2.0201069202,
               "Unit": "1/min",
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
                 "Method": "ParameterIdentification",
-                "Description": "Value updated from 'Parameter Identification 1' on 2019-12-05 10:03"
+                "Description": "Value updated from 'Parameter Identification 1' on 2020-01-13 15:01"
               }
             }
           ]
@@ -1298,12 +1283,12 @@
             },
             {
               "Name": "Specific clearance",
-              "Value": 5.0469684736,
+              "Value": 4.1462183378,
               "Unit": "1/min",
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
                 "Method": "ParameterIdentification",
-                "Description": "Value updated from 'Parameter Identification 1' on 2019-12-05 10:03"
+                "Description": "Value updated from 'Parameter Identification 1' on 2020-01-13 15:01"
               }
             }
           ]
@@ -1367,31 +1352,31 @@
       "Parameters": [
         {
           "Name": "Dissolution time (50% dissolved)",
-          "Value": 63.7520957845,
+          "Value": 79.6337524677,
           "Unit": "min",
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 1' on 2019-12-05 10:03"
+            "Description": "Value updated from 'Parameter Identification 1' on 2020-01-13 15:01"
           }
         },
         {
           "Name": "Lag time",
-          "Value": 76.9297995409,
+          "Value": 78.7967495765,
           "Unit": "min",
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 1' on 2019-12-05 10:03"
+            "Description": "Value updated from 'Parameter Identification 1' on 2020-01-13 15:01"
           }
         },
         {
           "Name": "Dissolution shape",
-          "Value": 1.4132582664,
+          "Value": 1.0838799888,
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 1' on 2019-12-05 10:03"
+            "Description": "Value updated from 'Parameter Identification 1' on 2020-01-13 15:01"
           }
         },
         {
@@ -1645,7 +1630,7 @@
       "TimeUnit": "h"
     },
     {
-      "Name": "PO_0.125mg_25h",
+      "Name": "PO_0.125mg",
       "DosingInterval": "Single",
       "Schemas": [
         {
@@ -1677,7 +1662,7 @@
           "Parameters": [
             {
               "Name": "Start time",
-              "Value": 25.0,
+              "Value": 0.0,
               "Unit": "h",
               "ValueOrigin": {
                 "Source": "Unknown"
@@ -2002,21 +1987,17 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "Min": -1.06088,
-              "Max": 18.06697,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
             },
             {
-              "Unit": "µmol/l",
+              "Unit": "µg/l",
               "Dimension": "Concentration (molar)",
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "Min": 5.688548E-05,
-              "Max": 0.04544448,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
@@ -2478,7 +2459,7 @@
               "NumberMode": "Normal"
             },
             {
-              "Unit": "µmol/l",
+              "Unit": "µg/l",
               "Dimension": "Concentration (molar)",
               "Type": "Y",
               "GridLines": false,
@@ -2512,7 +2493,7 @@
             }
           ],
           "Name": "Time Profile Analysis",
-          "OriginText": "Erythromycin-Triazolam-DDI\nPhillips1986_Perpetrator\n2019-12-06 10:54"
+          "OriginText": "Erythromycin-Triazolam-DDI_EryUpdate\nPhillips1986_Perpetrator\n2020-01-13 17:47"
         }
       ],
       "Interactions": [
@@ -2520,368 +2501,6 @@
           "Name": "CYP3A4-MBI",
           "MoleculeName": "CYP3A4",
           "CompoundName": "Erythromycin"
-        }
-      ]
-    },
-    {
-      "Name": "Greenblatt1998_Control",
-      "Model": "4Comp",
-      "ObservedData": [
-        "Greenblatt 1998a - Triazolam + Placebo (Trial B) - Triazolam - PO - 0.125 mg - Plasma - agg. (n=12)"
-      ],
-      "Solver": {},
-      "OutputSchema": [
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 0.0,
-              "Unit": "h"
-            },
-            {
-              "Name": "End time",
-              "Value": 25.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "Resolution",
-              "Value": 4.0,
-              "Unit": "pts/h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            }
-          ]
-        },
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 25.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "End time",
-              "Value": 28.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "Resolution",
-              "Value": 20.0,
-              "Unit": "pts/h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            }
-          ]
-        },
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 28.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "End time",
-              "Value": 33.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "Resolution",
-              "Value": 4.0,
-              "Unit": "pts/h"
-            }
-          ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Applications|PO_0.125mg_25h|Halcion|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Neighborhoods|Caecum_int_Caecum_cell|Triazolam|P (interstitial->intracellular)",
-          "Value": 0.00015477761992,
-          "Unit": "cm/min",
-          "ValueOrigin": {
-            "Source": "Unknown"
-          }
-        },
-        {
-          "Path": "Neighborhoods|Caecum_int_Caecum_cell|Triazolam|P (intracellular->interstitial)",
-          "Value": 0.00015477761992,
-          "Unit": "cm/min",
-          "ValueOrigin": {
-            "Source": "Unknown"
-          }
-        },
-        {
-          "Path": "Neighborhoods|ColonAscendens_int_ColonAscendens_cell|Triazolam|P (interstitial->intracellular)",
-          "Value": 0.00015477761992,
-          "Unit": "cm/min",
-          "ValueOrigin": {
-            "Source": "Unknown"
-          }
-        },
-        {
-          "Path": "Neighborhoods|ColonAscendens_int_ColonAscendens_cell|Triazolam|P (intracellular->interstitial)",
-          "Value": 0.00015477761992,
-          "Unit": "cm/min",
-          "ValueOrigin": {
-            "Source": "Unknown"
-          }
-        },
-        {
-          "Path": "Neighborhoods|ColonDescendens_int_ColonDescendens_cell|Triazolam|P (interstitial->intracellular)",
-          "Value": 0.00015477761992,
-          "Unit": "cm/min",
-          "ValueOrigin": {
-            "Source": "Unknown"
-          }
-        },
-        {
-          "Path": "Neighborhoods|ColonDescendens_int_ColonDescendens_cell|Triazolam|P (intracellular->interstitial)",
-          "Value": 0.00015477761992,
-          "Unit": "cm/min",
-          "ValueOrigin": {
-            "Source": "Unknown"
-          }
-        },
-        {
-          "Path": "Neighborhoods|ColonSigmoid_int_ColonSigmoid_cell|Triazolam|P (interstitial->intracellular)",
-          "Value": 0.00015477761992,
-          "Unit": "cm/min",
-          "ValueOrigin": {
-            "Source": "Unknown"
-          }
-        },
-        {
-          "Path": "Neighborhoods|ColonSigmoid_int_ColonSigmoid_cell|Triazolam|P (intracellular->interstitial)",
-          "Value": 0.00015477761992,
-          "Unit": "cm/min",
-          "ValueOrigin": {
-            "Source": "Unknown"
-          }
-        },
-        {
-          "Path": "Neighborhoods|ColonTransversum_int_ColonTransversum_cell|Triazolam|P (interstitial->intracellular)",
-          "Value": 0.00015477761992,
-          "Unit": "cm/min",
-          "ValueOrigin": {
-            "Source": "Unknown"
-          }
-        },
-        {
-          "Path": "Neighborhoods|ColonTransversum_int_ColonTransversum_cell|Triazolam|P (intracellular->interstitial)",
-          "Value": 0.00015477761992,
-          "Unit": "cm/min",
-          "ValueOrigin": {
-            "Source": "Unknown"
-          }
-        },
-        {
-          "Path": "Neighborhoods|Duodenum_int_Duodenum_cell|Triazolam|P (interstitial->intracellular)",
-          "Value": 0.00015477761992,
-          "Unit": "cm/min",
-          "ValueOrigin": {
-            "Source": "Unknown"
-          }
-        },
-        {
-          "Path": "Neighborhoods|Duodenum_int_Duodenum_cell|Triazolam|P (intracellular->interstitial)",
-          "Value": 0.00015477761992,
-          "Unit": "cm/min",
-          "ValueOrigin": {
-            "Source": "Unknown"
-          }
-        },
-        {
-          "Path": "Neighborhoods|LowerIleum_int_LowerIleum_cell|Triazolam|P (interstitial->intracellular)",
-          "Value": 0.00015477761992,
-          "Unit": "cm/min",
-          "ValueOrigin": {
-            "Source": "Unknown"
-          }
-        },
-        {
-          "Path": "Neighborhoods|LowerIleum_int_LowerIleum_cell|Triazolam|P (intracellular->interstitial)",
-          "Value": 0.00015477761992,
-          "Unit": "cm/min",
-          "ValueOrigin": {
-            "Source": "Unknown"
-          }
-        },
-        {
-          "Path": "Neighborhoods|LowerJejunum_int_LowerJejunum_cell|Triazolam|P (interstitial->intracellular)",
-          "Value": 0.00015477761992,
-          "Unit": "cm/min",
-          "ValueOrigin": {
-            "Source": "Unknown"
-          }
-        },
-        {
-          "Path": "Neighborhoods|LowerJejunum_int_LowerJejunum_cell|Triazolam|P (intracellular->interstitial)",
-          "Value": 0.00015477761992,
-          "Unit": "cm/min",
-          "ValueOrigin": {
-            "Source": "Unknown"
-          }
-        },
-        {
-          "Path": "Neighborhoods|Rectum_int_Rectum_cell|Triazolam|P (interstitial->intracellular)",
-          "Value": 0.00015477761992,
-          "Unit": "cm/min",
-          "ValueOrigin": {
-            "Source": "Unknown"
-          }
-        },
-        {
-          "Path": "Neighborhoods|Rectum_int_Rectum_cell|Triazolam|P (intracellular->interstitial)",
-          "Value": 0.00015477761992,
-          "Unit": "cm/min",
-          "ValueOrigin": {
-            "Source": "Unknown"
-          }
-        },
-        {
-          "Path": "Neighborhoods|UpperIleum_int_UpperIleum_cell|Triazolam|P (interstitial->intracellular)",
-          "Value": 0.00015477761992,
-          "Unit": "cm/min",
-          "ValueOrigin": {
-            "Source": "Unknown"
-          }
-        },
-        {
-          "Path": "Neighborhoods|UpperIleum_int_UpperIleum_cell|Triazolam|P (intracellular->interstitial)",
-          "Value": 0.00015477761992,
-          "Unit": "cm/min",
-          "ValueOrigin": {
-            "Source": "Unknown"
-          }
-        },
-        {
-          "Path": "Neighborhoods|UpperJejunum_int_UpperJejunum_cell|Triazolam|P (interstitial->intracellular)",
-          "Value": 0.00015477761992,
-          "Unit": "cm/min",
-          "ValueOrigin": {
-            "Source": "Unknown"
-          }
-        },
-        {
-          "Path": "Neighborhoods|UpperJejunum_int_UpperJejunum_cell|Triazolam|P (intracellular->interstitial)",
-          "Value": 0.00015477761992,
-          "Unit": "cm/min",
-          "ValueOrigin": {
-            "Source": "Unknown"
-          }
-        }
-      ],
-      "OutputSelections": [
-        "Organism|PeripheralVenousBlood|Triazolam|Plasma (Peripheral Venous Blood)"
-      ],
-      "Individual": "European (P-gp modified, CYP3A4 36 h)",
-      "Compounds": [
-        {
-          "Name": "Triazolam",
-          "CalculationMethods": [
-            "Cellular partition coefficient method - Rodgers and Rowland",
-            "Cellular permeability - PK-Sim Standard"
-          ],
-          "Alternatives": [
-            {
-              "AlternativeName": "Optimized",
-              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
-            }
-          ],
-          "Processes": [
-            {
-              "Name": "CYP3A4-alpha-OH pathway",
-              "MoleculeName": "CYP3A4"
-            },
-            {
-              "Name": "CYP3A4-4-OH pathway",
-              "MoleculeName": "CYP3A4"
-            }
-          ],
-          "Protocol": {
-            "Name": "PO_0.125mg_25h",
-            "Formulations": [
-              {
-                "Name": "Halcion",
-                "Key": "Formulation"
-              }
-            ]
-          }
-        }
-      ],
-      "HasResults": true,
-      "IndividualAnalyses": [
-        {
-          "Axes": [
-            {
-              "Unit": "h",
-              "Dimension": "Time",
-              "Type": "X",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "None",
-              "Scaling": "Linear",
-              "NumberMode": "Normal"
-            },
-            {
-              "Unit": "µmol/l",
-              "Dimension": "Concentration (molar)",
-              "Type": "Y",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "Solid",
-              "Scaling": "Log",
-              "NumberMode": "Normal"
-            }
-          ],
-          "Curves": [
-            {
-              "Name": "Greenblatt1998_Control-Triazolam-Peripheral Venous Blood-Plasma-Concentration",
-              "X": "Time",
-              "Y": "Greenblatt1998_Control|Organism|PeripheralVenousBlood|Triazolam|Plasma (Peripheral Venous Blood)",
-              "CurveOptions": {
-                "Color": "#FF0000",
-                "LegendIndex": 1
-              }
-            },
-            {
-              "Name": "Greenblatt 1998a - Triazolam + Placebo (Trial B) - Triazolam - PO - 0.125 mg - Plasma - agg. (n=12)-Triazolam-Peripheral Venous Blood-Plasma-ArithmeticMean",
-              "X": "Greenblatt 1998a - Triazolam + Placebo (Trial B) - Triazolam - PO - 0.125 mg - Plasma - agg. (n=12)|Time",
-              "Y": "Greenblatt 1998a - Triazolam + Placebo (Trial B) - Triazolam - PO - 0.125 mg - Plasma - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Triazolam|ArithmeticMean",
-              "CurveOptions": {
-                "Color": "#0000FF",
-                "LegendIndex": 2,
-                "LineStyle": "None",
-                "Symbol": "Circle"
-              }
-            }
-          ],
-          "Name": "Time Profile Analysis",
-          "OriginText": "Erythromycin-Triazolam-DDI_NEW\nGreenblatt1998_Control\n2019-11-07 15:30"
         }
       ]
     },
@@ -3272,7 +2891,7 @@
               "NumberMode": "Normal"
             },
             {
-              "Unit": "µmol/l",
+              "Unit": "µg/l",
               "Dimension": "Concentration (molar)",
               "Type": "Y",
               "GridLines": false,
@@ -3306,7 +2925,7 @@
             }
           ],
           "Name": "Time Profile Analysis",
-          "OriginText": "Erythromycin-Triazolam-DDI\nGreenblatt1998_Perpetrator\n2019-12-06 10:52"
+          "OriginText": "Erythromycin-Triazolam-DDI_EryUpdate\nGreenblatt1998_Perpetrator\n2020-01-13 17:44"
         }
       ],
       "Interactions": [
@@ -3314,6 +2933,343 @@
           "Name": "CYP3A4-MBI",
           "MoleculeName": "CYP3A4",
           "CompoundName": "Erythromycin"
+        }
+      ]
+    },
+    {
+      "Name": "Greenblatt1998_Control",
+      "Model": "4Comp",
+      "ObservedData": [
+        "Greenblatt 1998a - Triazolam + Placebo (Trial B) - Triazolam - PO - 0.125 mg - Plasma - agg. (n=12)"
+      ],
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 2.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        },
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 2.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "End time",
+              "Value": 8.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 4.0,
+              "Unit": "pts/h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|PO_0.125mg|Halcion|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Neighborhoods|Caecum_int_Caecum_cell|Triazolam|P (interstitial->intracellular)",
+          "Value": 0.00015477761992,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|Caecum_int_Caecum_cell|Triazolam|P (intracellular->interstitial)",
+          "Value": 0.00015477761992,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|ColonAscendens_int_ColonAscendens_cell|Triazolam|P (interstitial->intracellular)",
+          "Value": 0.00015477761992,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|ColonAscendens_int_ColonAscendens_cell|Triazolam|P (intracellular->interstitial)",
+          "Value": 0.00015477761992,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|ColonDescendens_int_ColonDescendens_cell|Triazolam|P (interstitial->intracellular)",
+          "Value": 0.00015477761992,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|ColonDescendens_int_ColonDescendens_cell|Triazolam|P (intracellular->interstitial)",
+          "Value": 0.00015477761992,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|ColonSigmoid_int_ColonSigmoid_cell|Triazolam|P (interstitial->intracellular)",
+          "Value": 0.00015477761992,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|ColonSigmoid_int_ColonSigmoid_cell|Triazolam|P (intracellular->interstitial)",
+          "Value": 0.00015477761992,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|ColonTransversum_int_ColonTransversum_cell|Triazolam|P (interstitial->intracellular)",
+          "Value": 0.00015477761992,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|ColonTransversum_int_ColonTransversum_cell|Triazolam|P (intracellular->interstitial)",
+          "Value": 0.00015477761992,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|Duodenum_int_Duodenum_cell|Triazolam|P (interstitial->intracellular)",
+          "Value": 0.00015477761992,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|Duodenum_int_Duodenum_cell|Triazolam|P (intracellular->interstitial)",
+          "Value": 0.00015477761992,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|LowerIleum_int_LowerIleum_cell|Triazolam|P (interstitial->intracellular)",
+          "Value": 0.00015477761992,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|LowerIleum_int_LowerIleum_cell|Triazolam|P (intracellular->interstitial)",
+          "Value": 0.00015477761992,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|LowerJejunum_int_LowerJejunum_cell|Triazolam|P (interstitial->intracellular)",
+          "Value": 0.00015477761992,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|LowerJejunum_int_LowerJejunum_cell|Triazolam|P (intracellular->interstitial)",
+          "Value": 0.00015477761992,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|Rectum_int_Rectum_cell|Triazolam|P (interstitial->intracellular)",
+          "Value": 0.00015477761992,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|Rectum_int_Rectum_cell|Triazolam|P (intracellular->interstitial)",
+          "Value": 0.00015477761992,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|UpperIleum_int_UpperIleum_cell|Triazolam|P (interstitial->intracellular)",
+          "Value": 0.00015477761992,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|UpperIleum_int_UpperIleum_cell|Triazolam|P (intracellular->interstitial)",
+          "Value": 0.00015477761992,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|UpperJejunum_int_UpperJejunum_cell|Triazolam|P (interstitial->intracellular)",
+          "Value": 0.00015477761992,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Neighborhoods|UpperJejunum_int_UpperJejunum_cell|Triazolam|P (intracellular->interstitial)",
+          "Value": 0.00015477761992,
+          "Unit": "cm/min",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Triazolam|Plasma (Peripheral Venous Blood)"
+      ],
+      "Individual": "European (P-gp modified, CYP3A4 36 h)",
+      "Compounds": [
+        {
+          "Name": "Triazolam",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Optimized",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-alpha-OH pathway",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "CYP3A4-4-OH pathway",
+              "MoleculeName": "CYP3A4"
+            }
+          ],
+          "Protocol": {
+            "Name": "PO_0.125mg",
+            "Formulations": [
+              {
+                "Name": "Halcion",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µg/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Greenblatt1998_Control-Triazolam-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Greenblatt1998_Control|Organism|PeripheralVenousBlood|Triazolam|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Greenblatt 1998a - Triazolam + Placebo (Trial B) - Triazolam - PO - 0.125 mg - Plasma - agg. (n=12)-Triazolam-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "X": "Greenblatt 1998a - Triazolam + Placebo (Trial B) - Triazolam - PO - 0.125 mg - Plasma - agg. (n=12)|Time",
+              "Y": "Greenblatt 1998a - Triazolam + Placebo (Trial B) - Triazolam - PO - 0.125 mg - Plasma - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Triazolam|ArithmeticMean",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 2,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "OriginText": "Erythromycin-Triazolam-DDI\nGreenblatt1998_Control\n2020-03-05 12:49"
         }
       ]
     }
@@ -3443,24 +3399,24 @@
             "MolWeight": 343.21
           },
           "Values": [
-            0.000293317,
-            0.002378186,
-            0.003292121,
-            0.003585243,
-            0.00349752815,
-            0.00358712277,
-            0.00340276,
-            0.002996613,
-            0.002308351,
-            0.002090198,
-            0.0015794409,
-            0.00118404313,
-            0.000983692,
-            0.000591988966,
-            0.000292669
+            0.293317,
+            2.378186,
+            3.292121,
+            3.585243,
+            3.497528,
+            3.587123,
+            3.40276,
+            2.996613,
+            2.308351,
+            2.090198,
+            1.579441,
+            1.184043,
+            0.983692,
+            0.591989,
+            0.292669
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/l"
         }
       ],
       "BaseGrid": {
@@ -3586,20 +3542,20 @@
             "MolWeight": 343.21
           },
           "Values": [
-            0.001153034,
-            0.001972296,
-            0.00199999986,
-            0.001885224,
-            0.001770449,
-            0.001667546,
-            0.001394459,
-            0.00125197892,
-            0.00112533011,
-            0.0009155673,
-            0.000124010592
+            1.153034,
+            1.97229612,
+            2.0,
+            1.885224,
+            1.770449,
+            1.667546,
+            1.394459,
+            1.251979,
+            1.12533009,
+            0.9155673,
+            0.124010593
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/l"
         }
       ],
       "BaseGrid": {
@@ -3721,19 +3677,19 @@
             "MolWeight": 343.21
           },
           "Values": [
-            0.0005463836,
-            0.001143868,
-            0.001077044,
-            0.00096698117,
-            0.0008372642,
-            0.0007507862,
-            0.000573899364,
-            0.0004048742,
-            0.0003144654,
-            0.0001965409
+            0.5463836,
+            1.143868,
+            1.077044,
+            0.9669812,
+            0.8372642,
+            0.7507862,
+            0.5738994,
+            0.4048742,
+            0.3144654,
+            0.1965409
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/l"
         }
       ],
       "BaseGrid": {
@@ -3749,16 +3705,16 @@
           "Date": "0001-01-01T00:00:00"
         },
         "Values": [
-          25.5,
-          26.0,
-          26.5,
-          27.0,
-          27.5,
-          28.0,
-          29.0,
-          30.0,
-          31.0,
-          33.0
+          0.5,
+          1.0,
+          1.5,
+          2.0,
+          2.5,
+          3.0,
+          4.0,
+          5.0,
+          6.0,
+          8.0
         ],
         "Dimension": "Time",
         "Unit": "h"
@@ -3887,23 +3843,23 @@
             "MolWeight": 343.21
           },
           "Values": [
-            0.0001779584,
-            0.00146451,
-            0.00198835,
-            0.002201589,
-            0.00237987214,
-            0.00237197476,
-            0.002293972,
-            0.001976447,
-            0.001474624,
-            0.00107909588,
-            0.00069243653,
-            0.000483282027,
-            0.0002829312,
-            0.000112946895
+            0.1779584,
+            1.46451,
+            1.98834991,
+            2.201589,
+            2.379872,
+            2.371975,
+            2.293972,
+            1.976447,
+            1.474624,
+            1.079096,
+            0.6924366,
+            0.48328203,
+            0.2829312,
+            0.1129469
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/l"
         }
       ],
       "BaseGrid": {
