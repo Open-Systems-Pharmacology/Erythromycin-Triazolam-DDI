@@ -1,5 +1,5 @@
 {
-  "Version": 76,
+  "Version": 77,
   "Individuals": [
     {
       "Name": "European (P-gp modified, CYP3A4 36 h)",
@@ -88,12 +88,22 @@
           },
           "Parameters": [
             {
+              "Name": "Reference concentration",
+              "Value": 4.32,
+              "Unit": "µmol/l"
+            },
+            {
               "Name": "t1/2 (liver)",
               "Value": 36.0,
               "Unit": "h",
               "ValueOrigin": {
                 "Source": "Unknown"
               }
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         },
@@ -203,6 +213,23 @@
             {
               "Name": "ColonSigmoid",
               "Value": 0.00010384615385
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Reference concentration",
+              "Value": 1.0,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         },
@@ -592,6 +619,16 @@
               "ValueOrigin": {
                 "Source": "Unknown"
               }
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         },
@@ -634,6 +671,23 @@
               "Name": "Muscle",
               "MembraneLocation": "Basolateral",
               "Value": 0.00064682539683
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Reference concentration",
+              "Value": 1.0,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         },
@@ -749,6 +803,16 @@
               "ValueOrigin": {
                 "Source": "Unknown"
               }
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         },
@@ -779,6 +843,16 @@
               "ValueOrigin": {
                 "Source": "Unknown"
               }
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         },
@@ -802,6 +876,16 @@
               "ValueOrigin": {
                 "Source": "Unknown"
               }
+            },
+            {
+              "Name": "t1/2 (liver)",
+              "Value": 36.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "t1/2 (intestine)",
+              "Value": 23.0,
+              "Unit": "h"
             }
           ]
         }
@@ -1658,16 +1742,6 @@
                 }
               ]
             }
-          ],
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 0.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            }
           ]
         }
       ],
@@ -1726,31 +1800,12 @@
             },
             {
               "Name": "End time",
-              "Value": 2.0,
-              "Unit": "h"
-            },
-            {
-              "Name": "Resolution",
-              "Value": 20.0,
-              "Unit": "pts/h"
-            }
-          ]
-        },
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 2.0,
-              "Unit": "h"
-            },
-            {
-              "Name": "End time",
               "Value": 24.0,
               "Unit": "h"
             },
             {
               "Name": "Resolution",
-              "Value": 4.0,
+              "Value": 20.0,
               "Unit": "pts/h"
             }
           ]
@@ -2027,7 +2082,7 @@
             }
           ],
           "Name": "Time Profile Analysis",
-          "OriginText": "Erythromycin-Triazolam-DDI_NEW\nPhillips1986_Control\n2019-11-07 14:53"
+          "OriginText": "Erythromycin-Triazolam-DDI\nPhillips1986_Control\n2020-12-02 12:48"
         }
       ]
     },
@@ -2048,25 +2103,6 @@
             },
             {
               "Name": "End time",
-              "Value": 2.0,
-              "Unit": "h"
-            },
-            {
-              "Name": "Resolution",
-              "Value": 20.0,
-              "Unit": "pts/h"
-            }
-          ]
-        },
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 2.0,
-              "Unit": "h"
-            },
-            {
-              "Name": "End time",
               "Value": 64.0,
               "Unit": "h",
               "ValueOrigin": {
@@ -2085,34 +2121,6 @@
             {
               "Name": "Start time",
               "Value": 64.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "End time",
-              "Value": 67.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "Resolution",
-              "Value": 20.0,
-              "Unit": "pts/h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            }
-          ]
-        },
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 67.0,
               "Unit": "h",
               "ValueOrigin": {
                 "Source": "Unknown"
@@ -2128,8 +2136,11 @@
             },
             {
               "Name": "Resolution",
-              "Value": 4.0,
-              "Unit": "pts/h"
+              "Value": 20.0,
+              "Unit": "pts/h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
             }
           ]
         }
@@ -2422,14 +2433,16 @@
               "MoleculeName": "CYP3A4"
             },
             {
-              "Name": "Total Hepatic Clearance-fitted"
+              "Name": "Total Hepatic Clearance-fitted",
+              "SystemicProcessType": "Hepatic"
             },
             {
               "Name": "OATP1B1-fitted",
               "MoleculeName": "OATP1B1"
             },
             {
-              "Name": "Glomerular Filtration-fitted"
+              "Name": "Glomerular Filtration-fitted",
+              "SystemicProcessType": "GFR"
             }
           ],
           "Protocol": {
@@ -2493,7 +2506,7 @@
             }
           ],
           "Name": "Time Profile Analysis",
-          "OriginText": "Erythromycin-Triazolam-DDI_EryUpdate\nPhillips1986_Perpetrator\n2020-01-13 17:47"
+          "OriginText": "Erythromycin-Triazolam-DDI\nPhillips1986_Perpetrator\n2020-12-02 12:48"
         }
       ],
       "Interactions": [
@@ -2549,7 +2562,7 @@
             },
             {
               "Name": "End time",
-              "Value": 28.0,
+              "Value": 49.0,
               "Unit": "h",
               "ValueOrigin": {
                 "Source": "Unknown"
@@ -2562,31 +2575,6 @@
               "ValueOrigin": {
                 "Source": "Unknown"
               }
-            }
-          ]
-        },
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 28.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "End time",
-              "Value": 49.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "Resolution",
-              "Value": 4.0,
-              "Unit": "pts/h"
             }
           ]
         }
@@ -2854,14 +2842,16 @@
               "MoleculeName": "CYP3A4"
             },
             {
-              "Name": "Total Hepatic Clearance-fitted"
+              "Name": "Total Hepatic Clearance-fitted",
+              "SystemicProcessType": "Hepatic"
             },
             {
               "Name": "OATP1B1-fitted",
               "MoleculeName": "OATP1B1"
             },
             {
-              "Name": "Glomerular Filtration-fitted"
+              "Name": "Glomerular Filtration-fitted",
+              "SystemicProcessType": "GFR"
             }
           ],
           "Protocol": {
@@ -2925,7 +2915,7 @@
             }
           ],
           "Name": "Time Profile Analysis",
-          "OriginText": "Erythromycin-Triazolam-DDI_EryUpdate\nGreenblatt1998_Perpetrator\n2020-01-13 17:44"
+          "OriginText": "Erythromycin-Triazolam-DDI\nGreenblatt1998_Perpetrator\n2020-12-02 11:48"
         }
       ],
       "Interactions": [
@@ -2953,7 +2943,7 @@
             },
             {
               "Name": "End time",
-              "Value": 2.0,
+              "Value": 24.0,
               "Unit": "h",
               "ValueOrigin": {
                 "Source": "Unknown"
@@ -2962,34 +2952,6 @@
             {
               "Name": "Resolution",
               "Value": 20.0,
-              "Unit": "pts/h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            }
-          ]
-        },
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 2.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "End time",
-              "Value": 8.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "Resolution",
-              "Value": 4.0,
               "Unit": "pts/h",
               "ValueOrigin": {
                 "Source": "Unknown"
@@ -3269,7 +3231,7 @@
             }
           ],
           "Name": "Time Profile Analysis",
-          "OriginText": "Erythromycin-Triazolam-DDI\nGreenblatt1998_Control\n2020-03-05 12:49"
+          "OriginText": "Erythromycin-Triazolam-DDI\nGreenblatt1998_Control\n2020-12-02 12:47"
         }
       ]
     }
